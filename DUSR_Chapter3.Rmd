@@ -1,0 +1,21 @@
+---
+title: "DSUR_Chapter3.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Chapter 3: The R Environment 
+
+## Subsection 1 
+
+Some notes 
+
+```{r}
+
+summary(cars)
+
+```
+
